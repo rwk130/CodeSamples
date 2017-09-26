@@ -1,0 +1,2 @@
+C:\Git\CodeSamples\CodeSamples\CodeSamples\obj\Debug\CodeSamples.csprojResolveAssemblyReference.cache
+C:\Git\CodeSamples\CodeSamples\CodeSamples\obj\Debug\CodeSamples.csproj.CoreCompileInputs.cache
