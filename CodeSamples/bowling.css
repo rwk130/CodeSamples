@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.Score { width: 100%; text-align: center; height: 25%; border-bottom: 4px dotted Black;
+         position: relative; top: 0; left: 0; padding: 10px 0 25px 0; }
+            
+.Card { border: 2px solid Black; border-collapse: collapse; }
+
+.Card th { border: 1px solid Black; }
+
+.Card td { height: 25px; border-right: 1px solid Black; padding: 0; vertical-align: middle;
+           text-align: center; }
+
+.Card td.Name { width: 150px; padding: 2px; }
+
+.FrameTop { width: 25px; background-color: White; color: Black; border: none; }
+
+.FrameBottom { width: 25px; border: 1px solid Black; }
+
+.FrameTotal { text-align: center; height: 30px; }
+
+.hideButton { visibility: hidden; }
+
+.showButton { visibility: visible; }
+
+.small { font-size: small; color: Red; background-color: White; color: Black; border: none; }
+
+.Question { font-size: large; font-weight: bold; }

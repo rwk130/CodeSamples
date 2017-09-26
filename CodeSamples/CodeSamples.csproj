@@ -75,9 +75,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bowling.css" />
+    <Content Include="bowling.htm" />
+    <Content Include="bowling.js" />
+    <Content Include="CashRegister.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CashRegister.aspx.cs">
+      <DependentUpon>CashRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
